@@ -1,0 +1,59 @@
+body{
+	background: #e8e8e8;
+	background: url(imagenes/cesped.jpg);
+}
+
+.menu {
+	list-style: none;
+	padding: 0;
+	background:#092327;
+	width: 90%;
+	max-width: 2000px;
+	margin: auto;
+}
+.menu li a{
+	text-decoration: none;
+	color: white;
+	padding:20px;
+	display: block; 
+}
+.menu li{
+	display: inline-block;
+	text-align: center;
+}
+.menu li a:hover{
+	background: #ef8354
+}
+.img {
+	width: 500px;
+
+}
+.border{
+ border-color; black;
+ border-width: 10px;
+ border-style: Ridge;
+ border-radius: 1px;
+}
+.marco1 {
+   border: 1px solid #000000;
+}
+h1{
+  font-size: 3vw;
+  color: 	#AFEEEE;
+
+}
+h2{
+  font-size: 3vw;
+  color: white
+}
+p{
+  font-size: 2vw;
+  color: white
+}
+.pof {
+	font-size: 3vw;
+	color: white;
+}
+.img2 {
+	width: 27px;
+}
