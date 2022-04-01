@@ -1,2 +1,2 @@
-# AtleticoFutbolClubLosPijudos
+# AtleticoFutbolClubLosPingones
 Atlético Fútbol Club Los Pingones
